@@ -1,0 +1,7 @@
+---
+title: "Auto-add members to a team when logging in via SSO"
+order: 4
+page_id: "auto-add-members-to-a-team-when-logging-in-via-SSO"
+warning: false
+---
+When a team sets up their Postman instance to be accessed using SSO and access to be controlled via Active Directory Groups, they can set it to auto-add members. There is an option to "Allow Signups” during the SSO setup process to eliminate the application still requiring a manual invitation to be sent from an admin to users. Another option is to select the “auto add to team'“ option in the team’s authentication settings. 
